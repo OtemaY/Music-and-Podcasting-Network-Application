@@ -7,5 +7,3 @@ In the making of this project, the user was at the center of the application bui
 The initial prototype, its choice of design and features, and usability, as well as following iterations of the prototype, were all guided by the design process as elicited by David Benyon. Every good and user-centered design goes through iterations after being evaluated by its target group of users. 
 
 The feedback collected from individuals and through focus group discussions using evaluation methods such as think-aloud evaluation was used to gather feedback and make changes to arrive at the final prototype.
-
-Completed between Oct 2023 - Jan 2024
