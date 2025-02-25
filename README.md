@@ -1,4 +1,4 @@
-Melo Music and Podcasting Network ApplicationMelo Music and Podcasting Network Application
+"Melo App" - Music and Podcasting Network Application
 
 I designed a Music and Podcasting Networking Application called Melo.
 The purpose of this app, is to provide a platform for consumers to listen to their favourite podcast episodes and music and connect with their favourite artists on a personal/intimate level. 
